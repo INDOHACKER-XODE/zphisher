@@ -155,7 +155,7 @@ banner() {
 		${ORANGE}      | |                                
 		${ORANGE}      |_|                ${RED}Version : 2.1
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by INDOHACKER-XODE (Fabian.Anonymous)${WHITE}
 	EOF
 }
 
@@ -259,9 +259,8 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN}Author   ${RED}:  ${ORANGE}TAHMID RAYAT ${RED}[ ${ORANGE}HTR-TECH ${RED}]
-		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/htr-tech
-		${GREEN}Social   ${RED}:  ${CYAN}https://linktr.ee/tahmid.rayat
+		${GREEN}Author   ${RED}:  ${ORANGE}Fabian-Anonymous ${RED}[ ${ORANGE}INDOHACKER-XODE ${RED}]
+		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/INDOHACKER-XODE
 		${GREEN}Version  ${RED}:  ${ORANGE}2.1
 
 		${REDBG}${WHITE} Thanks : Adi1090x,MoisesTapia,ThelinuxChoice
