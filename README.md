@@ -87,7 +87,5 @@ $ docker run --rm -it INDOHACKER-XODE/zphisher
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/htr-tech" target="_blank"><img src="https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/tahmid.rayat" target="_blank"><img src="https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram"></a>
-  <a href="https://m.me/tahmid.rayat.official" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
+  <a href="https://github.com/INDOHACKER-XODE" target="_blank"><img src="https://img.shields.io/badge/Github-INDOHACKER--XODE-green?style=for-the-badge&logo=github"></a>
 </p>
